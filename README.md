@@ -40,6 +40,7 @@ Added comments for HTML/CSS for better readability
 ##Deployed page
 
 ```
+https://thekid303.github.io/Denver-homework-01-/
 
 # Denver-homework-01-
 # Denver-homework-01-
